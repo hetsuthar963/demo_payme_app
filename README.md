@@ -9,7 +9,9 @@ Leveraged MongoDB as the primary database for storing user data, transactions, a
 Technologies Used:
 
 Frontend: React, React Router Dom, Tailwind CSS, JavaScript, Zod
+
 Backend: Node.js, JS, Express
+
 Database: MongoDB
 
 ![Screenshot 2024-12-24 at 6 32 51 PM](https://github.com/user-attachments/assets/1afd391a-d88d-4339-bb05-2c6a92210059)
